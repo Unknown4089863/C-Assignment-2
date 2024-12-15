@@ -1,1 +1,1 @@
-# C-Assignment-2
+# C++ Assignment 2
